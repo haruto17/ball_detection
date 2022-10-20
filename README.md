@@ -1,1 +1,2 @@
 # ball_detection
+OpenCVを使って、PCのwebカメラから円の検出ができます。
